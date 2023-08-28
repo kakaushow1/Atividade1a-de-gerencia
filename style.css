@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  #container {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  #bebidaInput {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  #adicionarBtn, #deletarBtn {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  #deletarBtn {
+    background-color: #FF5733;
+  }
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  li {
+    margin-bottom: 5px;
+  }
