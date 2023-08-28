@@ -38,3 +38,9 @@ body {
   li {
     margin-bottom: 5px;
   }
+  footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
